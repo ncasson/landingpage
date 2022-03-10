@@ -257,8 +257,8 @@ You can ask for the deletion of your personal information. If you ask us to dele
 Right to be informed — Request to know
 
 Depending on the circumstances, you have a right to know:
-	whether we collect and use your personal information;
-	the categories of personal information that we collect;
+- whether we collect and use your personal information;
+- the categories of personal information that we collect;
 	the purposes for which the collected personal information is used;
 	whether we sell your personal information to third parties;
 	the categories of personal information that we sold or disclosed for a business purpose;
@@ -277,10 +277,7 @@ Upon receiving your request, we will need to verify your identity to determine y
 We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
 
 Other privacy rights
-	You may object to the processing of your personal information.
-	You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
-	You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
-	You may request to opt out from future selling of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
+You may object to the processing of your personal information. You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information. You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA. You may request to opt out from future selling of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 To exercise these rights, you can contact us by email at contact@todaysread.co, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 ## 11. DO WE MAKE UPDATES TO THIS NOTICE?
