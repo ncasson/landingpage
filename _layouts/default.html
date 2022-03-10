@@ -51,13 +51,8 @@
                             </p>
                         </div>
                         <div class="downloadButtonsContainer">
-                            <button class="pull-right btn btn-lg btn-primary s-margin-bottom s-margin-left" type="submit" onclick="clearFields()" id="button1">Submit</button>
-
-                                 <div style="overflow: hidden;">
-                                <input type="email" class="form-control" placeholder="Enter email" value="" id="email1" name="email" onkeyup="stoppedTyping()">
-
-
-                        <script type="text/javascript">
+                            
+                                                    <script type="text/javascript">
                         function clearFields() {
                             document.getElementById("email1").value=""
                             
@@ -66,7 +61,7 @@
                             return
                             }
                             else{
-                            <form action="https://formspree.io/f/xoqrwzlr" method="POST">
+                            <form action="https://formspree.io/f/xoqrwzlr" method="POST"> </form>
                             }
                         }
                         function stoppedTyping(){
@@ -77,6 +72,13 @@
                             }
                         }
                         </script>
+                            <button class="pull-right btn btn-lg btn-primary s-margin-bottom s-margin-left" type="submit" onclick="clearFields()" id="button1">Submit</button>
+
+                                 <div style="overflow: hidden;">
+                                <input type="email" class="form-control" placeholder="Enter email" value="" id="email1" name="email" onkeyup="stoppedTyping()">
+
+
+
 
                                 </div>
 </                             div>
@@ -85,7 +87,6 @@
                             {% endif %}
                             <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a> -->
                         </div>
-                        </form>
                     </div>
                     {% include features.html %}
                     {% include footer.html %}
