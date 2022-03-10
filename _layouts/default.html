@@ -51,7 +51,6 @@
                             </p>
                         </div>
                         <div class="downloadButtonsContainer">
-                            <form action="https://formspree.io/f/xoqrwzlr" method="POST">
                             <button class="pull-right btn btn-lg btn-primary s-margin-bottom s-margin-left" type="submit" onclick="clearFields()" id="button1">Submit</button>
 
                                                             <div style="overflow: hidden;">
@@ -63,11 +62,11 @@
                             document.getElementById("email1").value=""
                             
                             if email1 is empty{
-                                alert "Put some text in there!"
+                                alert "Please enter your email address!"
                             return
                             }
                             else{
-                                <!-- do button functionality -->
+                            <form action="https://formspree.io/f/xoqrwzlr" method="POST">
                             }
                         }
                         function stoppedTyping(){
