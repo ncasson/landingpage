@@ -53,7 +53,7 @@
                         <div class="downloadButtonsContainer">
                             <button class="pull-right btn btn-lg btn-primary s-margin-bottom s-margin-left" type="submit" onclick="clearFields()" id="button1">Submit</button>
 
-                                                            <div style="overflow: hidden;">
+                                                            <div style="overflow: auto;">
                                 <input type="email" class="form-control" placeholder="Enter email" value="" id="email1" name="email" onkeyup="stoppedTyping()">
 
 
@@ -61,7 +61,7 @@
                         function clearFields() {
                             document.getElementById("email1").value=""
                             
-                            if (email1.elements.length == 0){
+                            if (email1.value.length == 0){
                                 alert ("Please enter an email address")
                             return
                             }
