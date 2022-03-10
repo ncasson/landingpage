@@ -5,9 +5,9 @@ include_in_header: true
 ---
 
 
-# PRIVACY NOTICE
+# PRIVACY POLICY
 
-## Last updated March 08, 2022
+**Last updated March 08, 2022**
 
 
 
