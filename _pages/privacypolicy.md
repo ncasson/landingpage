@@ -229,9 +229,9 @@ NO
 
 
 We may also collect other personal information outside of these categories instances where you interact with us in person, online, or by phone or mail in the context of:
-	Receiving help through our customer support channels;
-	Participation in customer surveys or contests; and
-	Facilitation in the delivery of our Services and to respond to your inquiries.
+- Receiving help through our customer support channels;
+- Participation in customer surveys or contests; and
+- Facilitation in the delivery of our Services and to respond to your inquiries.
 How do we use and share your personal information?
 
 More information about our data collection and sharing practices can be found in this privacy notice.
@@ -259,11 +259,11 @@ Right to be informed — Request to know
 Depending on the circumstances, you have a right to know:
 - whether we collect and use your personal information;
 - the categories of personal information that we collect;
-	the purposes for which the collected personal information is used;
-	whether we sell your personal information to third parties;
-	the categories of personal information that we sold or disclosed for a business purpose;
-	the categories of third parties to whom the personal information was sold or disclosed for a business purpose; and
-	the business or commercial purpose for collecting or selling personal information.
+- the purposes for which the collected personal information is used;
+- whether we sell your personal information to third parties;
+- the categories of personal information that we sold or disclosed for a business purpose;
+- the categories of third parties to whom the personal information was sold or disclosed for a business purpose; and
+- the business or commercial purpose for collecting or selling personal information.
 In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
 
 Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
