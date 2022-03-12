@@ -66,7 +66,7 @@ app_price_color                           : "#000000"
 app_description_color                     : "#000000"
 
 feature_title_color                       : "#ffffff"
-feature_text_color                        : "#D3D3D3"
+feature_text_color                        : "#C0C0C0"
 
 feature_icons_foreground_color            : "#000000"
 feature_icons_background_color            : "#ffffff"
@@ -74,7 +74,7 @@ feature_icons_background_color            : "#ffffff"
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#ffffff"
+footer_text_color                         : "#C0C0C0"
 
 
 
