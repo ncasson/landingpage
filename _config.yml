@@ -38,13 +38,13 @@ features                                  :
     description                           : We gather the best articles from a wide net of sources all over the world.
     fontawesome_icon_name                 : globe
     
-  - title                             : Sources
-    description                           : We gather the best articles from a wide net of sources all over the world.
-    fontawesome_icon_name                 : magic
+  - title                                 : Categories
+    description                           : Choose what category of news that you want to read. Categories include Business, Sports, Tech, Entertainment, and more.
+    fontawesome_icon_name                 : grip-dots
     
-  - title                             : Sources
-    description                           : We gather the best articles from a wide net of sources all over the world.
-    fontawesome_icon_name                 : magic
+  - title                                 : Beautiful Design
+    description                           : Enjoy reading your headlines with a timeless, beautiful design that is appealing to lay your eyes on.
+    fontawesome_icon_name                 : stars
 
 # Theme Settings
 topbar_color                              : "#ffffff"
@@ -68,8 +68,8 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#000000"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
