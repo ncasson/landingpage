@@ -30,7 +30,21 @@ twitter_username                          :
 github_username                           : 
 youtube_username                          :
 
+# Features 
 
+features                                  :
+
+  - title                                 : Sources
+    description                           : We gather the best articles from a wide net of sources all over the world.
+    fontawesome_icon_name                 : magic
+    
+      - title                             : Sources
+    description                           : We gather the best articles from a wide net of sources all over the world.
+    fontawesome_icon_name                 : magic
+    
+      - title                             : Sources
+    description                           : We gather the best articles from a wide net of sources all over the world.
+    fontawesome_icon_name                 : magic
 
 # Theme Settings
 topbar_color                              : "#ffffff"
