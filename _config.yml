@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/yourlogo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Today's Read                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Your Top Headlines                               #Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : We provide you with the most relevant trending articles from around the world all in one place so you can stay informed. Our advanced algorithm sorts through millions of news articles to deliver you the top news stories everyday.  
+app_description                           : We provide you with the most relevant trending articles from around the world all in one place so you can stay informed.  
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
